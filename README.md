@@ -1,5 +1,6 @@
 # Pay-Pal-Form-Filler
-This is a Chrome Extension to Fill out guest checkout forms on PayPal with one click.
+This is a Chrome Extension to Fill out guest checkout forms on PayPal with one click.  
+Data is acquired from www.fakenamegenerator.com
 ## Installation
 **1.** Download the PayPalFormFillerChromeExtension folder.
 **2.** Open the Extension Management page by navigating to chrome://extensions in url. The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
